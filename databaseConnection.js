@@ -14,7 +14,7 @@ const dbConfigQoddi = {
 const dbConfigLocal = {
 	host: "localhost",
 	user: "root",
-	password: "Password",
+	password: "Zxx53625140@",
 	database: "restaurant_review",
 	multipleStatements: false,
 	namedPlaceholders: true
